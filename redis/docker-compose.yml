@@ -1,0 +1,10 @@
+version: '3'
+services:
+  redis:
+    image: redis:5.0
+    volumes:
+      - ./redis.conf:/etc/redis/redis.conf 
+      - ./data:/data
+    ports:
+      - 6379:6379
+      

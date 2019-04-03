@@ -1,0 +1,31 @@
+version: '2'
+services:
+  master:
+    image: redis       ## 镜像
+    container_name: redis-master
+    ports:
+    - "6379:6379"
+    networks:
+     - redis-master
+  slave1:
+    image: redis                ## 镜像
+    container_name: redis-slave-1
+    ports:
+    - "6380:6379"           ## 暴露端口
+    command: redis-server --slaveof redis-master 6379
+    depends_on:
+    - master
+    networks:
+     - redis-master
+  slave2:
+    image: redis                ## 镜像
+    container_name: redis-slave-2
+    ports:
+    - "6381:6379"           ## 暴露端口
+    command: redis-server --slaveof redis-master 6379
+    depends_on:
+    - master
+    networks:
+     - redis-master
+networks:
+ redis-master:

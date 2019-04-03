@@ -1,0 +1,21 @@
+version: '2'
+
+services:
+  jira:
+    image: lowmem0ry/confluence
+    container_name: confluence
+    ports:
+       - '3090:8090'
+       - '3091:8091'
+  postgresql:
+    image: postgres:9.6
+    container_name: confluence_postgres
+    ports:
+      - '5434:5432'
+    environment:
+      - 'POSTGRES_USER=wiki'
+      - 'POSTGRES_PASSWORD=wikijoker'
+      - 'POSTGRES_DB=wiki'
+      - 'POSTGRES_ENCODING=UTF8'
+      - 'POSTGRES_COLLATE=C'
+      - 'POSTGRES_COLLATE_TYPE=C'

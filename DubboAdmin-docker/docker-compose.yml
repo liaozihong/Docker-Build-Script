@@ -1,0 +1,8 @@
+version: '3'
+services:
+  dubboadmin: 
+    image: webuilder/dubboadmin:latest
+    ports:
+      - "10080:8080"
+    environment:
+      ZOOKEEPER_SERVER: 127.0.0.1:2181
