@@ -1,0 +1,21 @@
+version: "3.3"
+services:
+    db:
+     image: postgres
+     container_name: postgres
+     ports:
+        - "5432:5432" 
+     environment:
+       - POSTGRES_USER=sonar 
+       - POSTGRES_PASSWORD=sonar
+  
+    sonarqube:
+      image: liaodashuai/sonarqube:zery-zh
+      container_name: sonarqube
+      ports:
+         - "9000:9000"
+         - "9092:9092"
+      links:
+        - db
+      environment:
+        - SONARQUBE_JDBC_URL=jdbc:postgresql://db:5432/sonar 
