@@ -1,0 +1,19 @@
+version: '3'
+services:
+    mysql_compose:
+        #构建mysql镜像
+        image: mysql:5.7
+        container_name: mysql-db
+        command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci #设置utf8字符集
+        restart: always
+        environment:
+          MYSQL_ROOT_PASSWORD: "root"
+          MYSQL_USER: "root"
+          MYSQL_PASSWORD: "root"
+        ports:
+          - '3306:3306' 
+        volumes:
+            #mysql数据库挂载到host物理机目录/d/docker/mysql/data
+          - D:/docker/mysql/data:/var/lib/mysql
+            #容器的配置目录挂载到host物理机目录/d/docker/mysql/data/conf  
+          - D:/docker/mysql/conf/mysqld.cnf:/etc/mysql/mysql.conf.d/mysqld.cnf
