@@ -12,18 +12,28 @@ docker build -t imageName:tag .
 ```
 进行构建镜像,注意不要遗忘了".",接着在使用docker run 命令启动镜像。  
 
-* ELK 			日志系统的创建  
-* Memcached 	缓存中间件
-* Kafka 		消息中间件
-* fastDfs 		分布式文件系统
-* mysql 		数据库
-* redis 		及redis哨兵模式
-* nsq 			消息中间件
-* workpress 	博客系统
-* confluence 	办公OA系统
-* Jdk 			特制附带graphicsmagick软件镜像
-* rocketmq 		消息中间件
-* sonarqube 	代码审计平台
-* nexus 		maven私有库平台
-* Huginn		自动化信息平台
-* sentinel		阿里巴巴监控平台
+目录描述：  
+
+* DubboAdmin-docker  	dubbo的可视化管理界面
+* Huginn		     	个性定制行为的工具
+* Memcached-docker 		缓存中间件
+* alibaba-sentinel		阿里巴巴的开源服务监控平台
+* confluence			办公流程工具
+* docker-elk 			基于Elasticsearch的日志采集系统  
+* docker_Kafka 			Kafka消息中间件
+* fastDfs-docker 		分布式文件系统
+* jdk-graphicsmagick	jdk镜像默认安装图片处理工具
+* mysql-master-slave	mysql主从复制环境
+* mysql 				Mysql数据库
+* nexus					maven私服搭建
+* nginx					nginx服务器模板
+* nsq-docker 			一个由go实现的分布式消息中间件
+* redis-sentinel-noauth redis的无授权配置哨兵搭建示例
+* redis-sentinel		redis的哨兵模式搭建示例
+* redis 				redis缓存数据库搭建
+* rocketmq 				阿里巴巴消息中间件
+* sonarqube 			代码审计平台
+* workpress 			博客系统
+
+
+**有问题欢迎指出!**
