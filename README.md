@@ -14,26 +14,26 @@ docker build -t imageName:tag .
 
 目录描述：  
 
-* DubboAdmin-docker  	dubbo的可视化管理界面
-* Huginn		     	个性定制行为的工具
-* Memcached-docker 		缓存中间件
-* alibaba-sentinel		阿里巴巴的开源服务监控平台
-* confluence			办公流程工具
-* docker-elk 			基于Elasticsearch的日志采集系统  
-* docker_Kafka 			Kafka消息中间件
-* fastDfs-docker 		分布式文件系统
-* jdk-graphicsmagick	jdk镜像默认安装图片处理工具
-* mysql-master-slave	mysql主从复制环境
-* mysql 				Mysql数据库
-* nexus					maven私服搭建
-* nginx					nginx服务器模板
-* nsq-docker 			一个由go实现的分布式消息中间件
-* redis-sentinel-noauth redis的无授权配置哨兵搭建示例
-* redis-sentinel		redis的哨兵模式搭建示例
-* redis 				redis缓存数据库搭建
-* rocketmq 				阿里巴巴消息中间件
-* sonarqube 			代码审计平台
-* workpress 			博客系统
+* **DubboAdmin-docker**  	：  使用docker定制 dubbo的可视化管理界面
+* **Huginn**		     	：  个性定制行为的工具
+* **Memcached-docker** 		：  缓存中间件
+* **alibaba-sentinel**  	：	阿里巴巴的开源服务监控平台
+* **confluence**			：  办公流程工具搭建
+* **docker-elk** 		  	：	基于Elasticsearch的日志采集系统  
+* **docker_Kafka** 		  	：	Kafka消息中间件搭建
+* **fastDfs-docker** 	  	：	分布式文件系统搭建
+* **jdk-graphicsmagick**  	：	jdk镜像默认安装图片处理工具
+* **mysql-master-slave**  	：	mysql主从复制环境搭建
+* **mysql** 			  	：	Mysql数据库搭建
+* **nexus**				  	：	maven私服搭建
+* **nginx**				  	：	nginx服务器搭建
+* **nsq-docker** 		  	：	一个由go实现的分布式消息中间件搭建
+* **redis-sentinel-noauth** ：  redis的无授权配置哨兵搭建示例
+* **redis-sentine**l	  	：	redis的哨兵模式搭建示例
+* **redis** 			  	：	redis缓存数据库搭建
+* **rocketmq** 			  	：	阿里巴巴消息中间件搭建
+* **sonarqube** 		  	：	代码审计平台搭建
+* **workpress**	  	        ：  博客系统搭建
 
 
 **有问题欢迎指出!**
