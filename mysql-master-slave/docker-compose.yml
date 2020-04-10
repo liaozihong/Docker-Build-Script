@@ -1,0 +1,37 @@
+version: '3'
+services:
+    mysql_master:
+        #构建mysql镜像
+        image: mysql:5.7
+        container_name: mysql_master
+        command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci #设置utf8字符集
+        restart: always
+        environment:
+          MYSQL_ROOT_PASSWORD: "root"
+          MYSQL_USER: "root"
+          MYSQL_PASSWORD: "root"
+        ports:
+          - '3307:3306' 
+        volumes:
+            #mysql数据库挂载到host物理机目录/d/docker/mysql/data
+          - D:/docker/mysql-master-slave/master/data:/var/lib/mysql
+            #容器的配置目录挂载到host物理机目录/d/docker/mysql/data/conf  
+          - D:/docker/mysql-master-slave/master/mysqld.cnf:/etc/mysql/mysql.conf.d/mysqld.cnf
+    
+    mysql_slave:
+        #构建mysql镜像
+        image: mysql:5.7
+        container_name: mysql_slave
+        command: mysqld --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci #设置utf8字符集
+        restart: always
+        environment:
+          MYSQL_ROOT_PASSWORD: "root"
+          MYSQL_USER: "root"
+          MYSQL_PASSWORD: "root"
+        ports:
+          - '3308:3306' 
+        volumes:
+            #mysql数据库挂载到host物理机目录/d/docker/mysql/data
+          - D:/docker/mysql-master-slave/slave/data:/var/lib/mysql
+            #容器的配置目录挂载到host物理机目录/d/docker/mysql/data/conf  
+          - D:/docker/mysql-master-slave/slave/mysqld.cnf:/etc/mysql/mysql.conf.d/mysqld.cnf
