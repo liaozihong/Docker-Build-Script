@@ -1,0 +1,10 @@
+version: '3.6'
+
+services:
+  consul: 
+    image: consul:latest
+    container_name: consul
+    restart: always
+    ports:
+      - '8500:8500'
+    command: agent -server -bind=127.0.0.1 -client=0.0.0.0 -bootstrap-expect=1 -ui

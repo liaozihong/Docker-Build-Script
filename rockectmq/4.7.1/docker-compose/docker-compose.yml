@@ -1,0 +1,41 @@
+version: '2'
+services:
+  namesrv:
+    image: apache/rocketmq-namesrv:4.7.1-compose
+    container_name: rmqnamesrv
+    build:
+      context: ./rocketmq-namesrv
+      args:
+        - version=4.7.1
+    ports:
+      - 9876:9876
+    volumes:
+      - ./data/namesrv/logs:/opt/logs
+      - ./data/namesrv/store:/opt/store
+  broker:
+    image: apache/rocketmq-broker:4.7.1-compose
+    container_name: rmqbroker
+    build:
+      context: ./rocketmq-broker
+      args:
+        - version=4.7.1
+    ports:
+      - 10909:10909
+      - 10911:10911
+    environment:
+      NAMESRV_ADDR: "192.168.11.41:9876"
+    volumes:
+      - ./data/broker/logs:/opt/logs
+      - ./data/broker/store:/opt/store
+      - ./data/broker/conf:/opt/conf
+    depends_on:
+      - namesrv
+  rocketmq-console-ng:
+    container_name: rmqconsole
+    image: styletang/rocketmq-console-ng:latest
+    depends_on:
+        - broker
+    ports:
+        - 8180:8080
+    environment:
+        NAMESRV_ADDR: "192.168.11.41:9876"

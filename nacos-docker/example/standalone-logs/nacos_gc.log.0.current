@@ -1,0 +1,12 @@
+OpenJDK 64-Bit Server VM (25.252-b09) for linux-amd64 JRE (1.8.0_252-b09), built on Apr 29 2020 09:01:52 by "mockbuild" with gcc 4.8.5 20150623 (Red Hat 4.8.5-39)
+Memory: 4k page, physical 2039192k(79000k free), swap 1048572k(331300k free)
+CommandLine flags: -XX:GCLogFileSize=104857600 -XX:InitialHeapSize=536870912 -XX:MaxHeapSize=536870912 -XX:MaxNewSize=268435456 -XX:NewSize=268435456 -XX:NumberOfGCLogFiles=10 -XX:+PrintGC -XX:+PrintGCDateStamps -XX:+PrintGCDetails -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseGCLogFileRotation -XX:+UseParallelGC 
+2020-08-12T15:22:28.860+0800: 8.938: [GC (Allocation Failure) [PSYoungGen: 196608K->16885K(229376K)] 196608K->16893K(491520K), 0.3956101 secs] [Times: user=0.09 sys=0.03, real=0.40 secs] 
+2020-08-12T15:22:32.850+0800: 12.937: [GC (Allocation Failure) [PSYoungGen: 213493K->17824K(229376K)] 213501K->17840K(491520K), 0.2480670 secs] [Times: user=0.06 sys=0.01, real=0.25 secs] 
+2020-08-12T15:22:35.599+0800: 15.684: [GC (Allocation Failure) [PSYoungGen: 214432K->21264K(229376K)] 214448K->21288K(491520K), 0.1682639 secs] [Times: user=0.07 sys=0.01, real=0.17 secs] 
+2020-08-12T15:22:38.181+0800: 18.263: [GC (Allocation Failure) [PSYoungGen: 217872K->20480K(229376K)] 217896K->20504K(491520K), 0.1857384 secs] [Times: user=0.06 sys=0.01, real=0.18 secs] 
+2020-08-12T15:22:38.584+0800: 18.658: [GC (Metadata GC Threshold) [PSYoungGen: 36566K->6336K(229376K)] 36590K->6368K(491520K), 0.0396016 secs] [Times: user=0.01 sys=0.00, real=0.04 secs] 
+2020-08-12T15:22:38.626+0800: 18.701: [Full GC (Metadata GC Threshold) [PSYoungGen: 6336K->0K(229376K)] [ParOldGen: 32K->6214K(262144K)] 6368K->6214K(491520K), [Metaspace: 20756K->20753K(1069056K)], 0.5960704 secs] [Times: user=0.06 sys=0.02, real=0.60 secs] 
+2020-08-12T15:22:46.274+0800: 26.350: [GC (Allocation Failure) [PSYoungGen: 196608K->8960K(235520K)] 202822K->15174K(497664K), 1.0971798 secs] [Times: user=0.04 sys=0.04, real=1.10 secs] 
+2020-08-12T15:23:01.813+0800: 41.889: [GC (Allocation Failure) [PSYoungGen: 218880K->17888K(236032K)] 225094K->24102K(498176K), 1.9011930 secs] [Times: user=0.07 sys=0.11, real=1.91 secs] 
+2020-08-12T15:23:23.550+0800: 63.633: [GC (Allocation Failure) [PSYoungGen: 227808K->16672K(237056K)] 234022K->22886K(499200K), 3.8440876 secs] [Times: user=0.12 sys=0.25, real=3.85 secs] 

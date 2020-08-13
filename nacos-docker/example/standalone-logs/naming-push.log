@@ -1,0 +1,16 @@
+2020-07-17 16:35:48,900 INFO DEFAULT_GROUP@@seata-server is changed, add it to push queue.
+
+2020-07-17 17:22:32,544 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-17 17:24:49,490 INFO DEFAULT_GROUP@@seata-storage-service is changed, add it to push queue.
+
+2020-07-17 17:24:53,973 INFO DEFAULT_GROUP@@seata-orders-service is changed, add it to push queue.
+
+2020-07-17 17:35:26,523 INFO DEFAULT_GROUP@@seata-account-service is changed, add it to push queue.
+
+2020-07-17 17:35:26,526 INFO serviceName: DEFAULT_GROUP@@seata-account-service changed, schedule push for: 192.168.11.41:58324, agent: Nacos-Java-Client:v1.2.1, key: 192.168.11.41,58324,26613802188501
+
+2020-07-17 17:35:26,527 INFO send udp packet: 192.168.11.41,58324,26613802188501
+
+2020-07-17 17:35:26,546 INFO received ack: {"type": "push-ack", "lastRefTime":"26613802188501", "data":""} from: 192.168.11.41:58324, cost: 19 ms, unacked: 0, total push: 1
+

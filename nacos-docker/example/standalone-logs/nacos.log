@@ -1,0 +1,485 @@
+2020-08-12 00:05:23,075 WARN clearConfigHistory start
+
+2020-08-12 00:05:27,776 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:05:27,778 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 00:15:23,089 WARN clearConfigHistory start
+
+2020-08-12 00:15:27,779 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:15:27,781 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 00:25:23,091 WARN clearConfigHistory start
+
+2020-08-12 00:25:27,782 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:25:27,784 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 00:35:23,093 WARN clearConfigHistory start
+
+2020-08-12 00:35:27,786 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:35:27,790 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 00:45:23,095 WARN clearConfigHistory start
+
+2020-08-12 00:45:27,791 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:45:27,793 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 00:55:23,097 WARN clearConfigHistory start
+
+2020-08-12 00:55:27,795 INFO [capacityManagement] start correct usage
+
+2020-08-12 00:55:27,797 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:05:23,099 WARN clearConfigHistory start
+
+2020-08-12 01:05:27,799 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:05:27,801 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:15:23,101 WARN clearConfigHistory start
+
+2020-08-12 01:15:27,802 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:15:27,804 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:25:23,103 WARN clearConfigHistory start
+
+2020-08-12 01:25:27,805 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:25:27,807 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:35:23,105 WARN clearConfigHistory start
+
+2020-08-12 01:35:27,808 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:35:27,810 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:45:23,107 WARN clearConfigHistory start
+
+2020-08-12 01:45:27,811 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:45:27,813 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 01:55:23,108 WARN clearConfigHistory start
+
+2020-08-12 01:55:27,814 INFO [capacityManagement] start correct usage
+
+2020-08-12 01:55:27,816 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:05:23,110 WARN clearConfigHistory start
+
+2020-08-12 02:05:27,817 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:05:27,819 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:15:23,112 WARN clearConfigHistory start
+
+2020-08-12 02:15:27,820 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:15:27,821 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:25:23,115 WARN clearConfigHistory start
+
+2020-08-12 02:25:27,822 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:25:27,825 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:35:23,117 WARN clearConfigHistory start
+
+2020-08-12 02:35:27,827 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:35:27,830 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:45:23,119 WARN clearConfigHistory start
+
+2020-08-12 02:45:27,832 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:45:27,833 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 02:55:23,121 WARN clearConfigHistory start
+
+2020-08-12 02:55:27,834 INFO [capacityManagement] start correct usage
+
+2020-08-12 02:55:27,835 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:05:23,126 WARN clearConfigHistory start
+
+2020-08-12 03:05:27,836 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:05:27,837 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:15:23,127 WARN clearConfigHistory start
+
+2020-08-12 03:15:27,839 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:15:27,840 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:25:23,129 WARN clearConfigHistory start
+
+2020-08-12 03:25:27,841 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:25:27,843 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:35:23,131 WARN clearConfigHistory start
+
+2020-08-12 03:35:27,844 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:35:27,846 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:45:23,133 WARN clearConfigHistory start
+
+2020-08-12 03:45:27,848 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:45:27,849 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 03:55:23,135 WARN clearConfigHistory start
+
+2020-08-12 03:55:27,851 INFO [capacityManagement] start correct usage
+
+2020-08-12 03:55:27,852 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:05:23,137 WARN clearConfigHistory start
+
+2020-08-12 04:05:27,854 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:05:27,855 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:15:23,138 WARN clearConfigHistory start
+
+2020-08-12 04:15:27,857 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:15:27,858 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:25:23,141 WARN clearConfigHistory start
+
+2020-08-12 04:25:27,859 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:25:27,861 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:35:23,143 WARN clearConfigHistory start
+
+2020-08-12 04:35:27,862 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:35:27,864 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:45:23,145 WARN clearConfigHistory start
+
+2020-08-12 04:45:27,865 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:45:27,867 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 04:55:23,147 WARN clearConfigHistory start
+
+2020-08-12 04:55:27,869 INFO [capacityManagement] start correct usage
+
+2020-08-12 04:55:27,870 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:05:23,150 WARN clearConfigHistory start
+
+2020-08-12 05:05:27,871 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:05:27,873 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:15:23,152 WARN clearConfigHistory start
+
+2020-08-12 05:15:27,874 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:15:27,876 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:25:23,154 WARN clearConfigHistory start
+
+2020-08-12 05:25:27,877 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:25:27,879 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:35:23,156 WARN clearConfigHistory start
+
+2020-08-12 05:35:27,880 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:35:27,882 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:45:23,159 WARN clearConfigHistory start
+
+2020-08-12 05:45:27,883 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:45:27,884 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 05:55:23,161 WARN clearConfigHistory start
+
+2020-08-12 05:55:27,886 INFO [capacityManagement] start correct usage
+
+2020-08-12 05:55:27,888 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:05:23,163 WARN clearConfigHistory start
+
+2020-08-12 06:05:27,889 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:05:27,891 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:15:23,165 WARN clearConfigHistory start
+
+2020-08-12 06:15:27,892 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:15:27,894 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:25:23,170 WARN clearConfigHistory start
+
+2020-08-12 06:25:27,895 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:25:27,897 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:35:23,172 WARN clearConfigHistory start
+
+2020-08-12 06:35:27,898 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:35:27,900 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:45:23,174 WARN clearConfigHistory start
+
+2020-08-12 06:45:30,436 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:45:30,439 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 06:55:25,710 WARN clearConfigHistory start
+
+2020-08-12 06:55:30,440 INFO [capacityManagement] start correct usage
+
+2020-08-12 06:55:30,443 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:05:25,712 WARN clearConfigHistory start
+
+2020-08-12 07:05:30,444 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:05:30,446 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:15:25,713 WARN clearConfigHistory start
+
+2020-08-12 07:15:30,447 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:15:30,449 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:25:25,715 WARN clearConfigHistory start
+
+2020-08-12 07:25:30,450 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:25:30,452 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:35:25,717 WARN clearConfigHistory start
+
+2020-08-12 07:35:30,453 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:35:30,455 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:45:25,720 WARN clearConfigHistory start
+
+2020-08-12 07:45:30,456 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:45:30,458 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 07:55:25,721 WARN clearConfigHistory start
+
+2020-08-12 07:55:30,459 INFO [capacityManagement] start correct usage
+
+2020-08-12 07:55:30,460 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:05:25,724 WARN clearConfigHistory start
+
+2020-08-12 08:05:30,461 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:05:30,463 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:15:25,725 WARN clearConfigHistory start
+
+2020-08-12 08:15:30,464 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:15:30,466 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:25:25,727 WARN clearConfigHistory start
+
+2020-08-12 08:25:30,467 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:25:30,469 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:35:25,729 WARN clearConfigHistory start
+
+2020-08-12 08:35:30,470 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:35:30,472 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:45:25,731 WARN clearConfigHistory start
+
+2020-08-12 08:45:30,473 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:45:30,475 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 08:55:25,732 WARN clearConfigHistory start
+
+2020-08-12 08:55:30,477 INFO [capacityManagement] start correct usage
+
+2020-08-12 08:55:30,478 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:05:25,734 WARN clearConfigHistory start
+
+2020-08-12 09:05:30,480 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:05:30,482 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:15:25,736 WARN clearConfigHistory start
+
+2020-08-12 09:15:30,484 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:15:30,486 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:25:25,738 WARN clearConfigHistory start
+
+2020-08-12 09:25:30,488 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:25:30,489 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:35:25,740 WARN clearConfigHistory start
+
+2020-08-12 09:35:30,491 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:35:30,493 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:45:25,742 WARN clearConfigHistory start
+
+2020-08-12 09:45:30,494 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:45:30,495 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 09:55:25,744 WARN clearConfigHistory start
+
+2020-08-12 09:55:30,496 INFO [capacityManagement] start correct usage
+
+2020-08-12 09:55:30,497 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 10:05:25,745 WARN clearConfigHistory start
+
+2020-08-12 10:05:30,498 INFO [capacityManagement] start correct usage
+
+2020-08-12 10:05:30,499 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 10:15:25,750 WARN clearConfigHistory start
+
+2020-08-12 10:15:30,500 INFO [capacityManagement] start correct usage
+
+2020-08-12 10:15:30,609 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-08-12 10:19:17,874 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m14s608ms473µs825ns).
+
+2020-08-12 10:21:20,552 ERROR CONSOLE
+
+org.apache.catalina.connector.ClientAbortException: java.io.IOException: Broken pipe
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:298)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:261)
+	at org.apache.catalina.connector.CoyoteOutputStream.flush(CoyoteOutputStream.java:118)
+	at sun.nio.cs.StreamEncoder.implFlush(StreamEncoder.java:297)
+	at sun.nio.cs.StreamEncoder.flush(StreamEncoder.java:141)
+	at java.io.OutputStreamWriter.flush(OutputStreamWriter.java:229)
+	at org.springframework.util.StreamUtils.copy(StreamUtils.java:124)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:106)
+	at org.springframework.http.converter.StringHttpMessageConverter.writeInternal(StringHttpMessageConverter.java:43)
+	at org.springframework.http.converter.AbstractHttpMessageConverter.write(AbstractHttpMessageConverter.java:227)
+	at org.springframework.web.servlet.mvc.method.annotation.AbstractMessageConverterMethodProcessor.writeWithMessageConverters(AbstractMessageConverterMethodProcessor.java:292)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor.handleReturnValue(RequestResponseBodyMethodProcessor.java:180)
+	at org.springframework.web.method.support.HandlerMethodReturnValueHandlerComposite.handleReturnValue(HandlerMethodReturnValueHandlerComposite.java:82)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:119)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:800)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1038)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:942)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1005)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:897)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:882)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CorsFilter.doFilterInternal(CorsFilter.java:96)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.web.trace.servlet.HttpTraceFilter.doFilterInternal(HttpTraceFilter.java:90)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at com.alibaba.nacos.core.auth.AuthFilter.doFilter(AuthFilter.java:55)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:209)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.filterAndRecordMetrics(WebMvcMetricsFilter.java:117)
+	at org.springframework.boot.actuate.metrics.web.servlet.WebMvcMetricsFilter.doFilterInternal(WebMvcMetricsFilter.java:106)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:791)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1417)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.io.IOException: Broken pipe
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method)
+	at sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:47)
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(IOUtil.java:93)
+	at sun.nio.ch.IOUtil.write(IOUtil.java:65)
+	at sun.nio.ch.SocketChannelImpl.write(SocketChannelImpl.java:468)
+	at org.apache.tomcat.util.net.NioChannel.write(NioChannel.java:134)
+	at org.apache.tomcat.util.net.NioBlockingSelector.write(NioBlockingSelector.java:101)
+	at org.apache.tomcat.util.net.NioSelectorPool.write(NioSelectorPool.java:157)
+	at org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper.doWrite(NioEndpoint.java:1225)
+	at org.apache.tomcat.util.net.SocketWrapperBase.doWrite(SocketWrapperBase.java:743)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flushBlocking(SocketWrapperBase.java:696)
+	at org.apache.tomcat.util.net.SocketWrapperBase.flush(SocketWrapperBase.java:686)
+	at org.apache.coyote.http11.Http11OutputBuffer$SocketOutputBuffer.flush(Http11OutputBuffer.java:553)
+	at org.apache.coyote.http11.filters.IdentityOutputFilter.flush(IdentityOutputFilter.java:117)
+	at org.apache.coyote.http11.Http11OutputBuffer.flush(Http11OutputBuffer.java:216)
+	at org.apache.coyote.http11.Http11Processor.flush(Http11Processor.java:1149)
+	at org.apache.coyote.AbstractProcessor.action(AbstractProcessor.java:394)
+	at org.apache.coyote.Response.action(Response.java:209)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:294)
+	... 82 common frames omitted
+2020-08-12 15:22:48,978 INFO Starting Nacos on e08e49a021f1 with PID 21 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2020-08-12 15:22:48,993 INFO The following profiles are active: standalone
+

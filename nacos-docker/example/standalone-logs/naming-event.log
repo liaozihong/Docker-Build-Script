@@ -1,0 +1,18 @@
+2020-07-17 16:35:47,895 INFO DEFAULT_GROUP@@seata-server {SYNC} {IP-NEW} cluster: default, new ips size: 1, content: [192.168.11.41:8091:unknown:default_1.0_true_false_default]
+
+2020-07-17 16:35:47,900 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-server, ips: 192.168.11.41:8091_true,
+
+2020-07-17 17:22:31,544 INFO DEFAULT_GROUP@@seata-account-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.41:2003:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-17 17:22:31,544 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.11.41:2003_true,
+
+2020-07-17 17:24:48,490 INFO DEFAULT_GROUP@@seata-storage-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.41:2002:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-17 17:24:48,490 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-storage-service, ips: 192.168.11.41:2002_true,
+
+2020-07-17 17:24:52,973 INFO DEFAULT_GROUP@@seata-orders-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.11.41:2001:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-07-17 17:24:52,973 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-orders-service, ips: 192.168.11.41:2001_true,
+
+2020-07-17 17:35:25,523 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@seata-account-service, ips: 192.168.11.41:2003_true,
+

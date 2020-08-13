@@ -1,0 +1,23 @@
+cluster.name: skywalkingDb
+
+node.name: es-node-1
+
+node.master: true
+
+node.data: true
+
+http.port: 9200
+
+transport.tcp.port: 9300
+
+network.bind_host: 0.0.0.0
+
+network.host: 0.0.0.0
+
+network.publish_host: 0.0.0.0
+
+http.cors.enabled: true
+
+http.cors.allow-origin: "*"
+
+http.cors.allow-headers: Authorization,X-Requested-With,Content-Length,Content-Type
